@@ -1,0 +1,1 @@
+{"uuid":"95881839-0f48-471c-b314-b18e78a03f0e","name":"checkAvatarAndIdTest()","children":["fbfc3c8a-b532-4db2-8af4-7376408d606c"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1737250166148,"stop":1737250166227}],"afters":[],"start":1737250165993,"stop":1737250173268}

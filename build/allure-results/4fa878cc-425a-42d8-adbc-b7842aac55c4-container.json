@@ -1,0 +1,1 @@
+{"uuid":"4fa878cc-425a-42d8-adbc-b7842aac55c4","name":"checkFirstNameAndLastName()","children":["4e7080cd-cf0d-4973-a07b-55bf6aabf20c"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1737250259087,"stop":1737250259163}],"afters":[],"start":1737250258891,"stop":1737250266018}

@@ -1,0 +1,547 @@
+HTTP/1.1 200 OK
+%Date: Sun, 19 Jan 2025 05:54:05 GMT
+/Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+ÙReport-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1736769656&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=LaB18M4%2FtmeEVlRPCXjYaE6%2BgjCE%2FBNoPILR3%2FEQoOo%3D"}]}
+°Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1736769656&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=LaB18M4%2FtmeEVlRPCXjYaE6%2BgjCE%2FBNoPILR3%2FEQoOo%3D
+|Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+ Access-Control-Allow-Origin: *
++Etag: W/"440-ZjsmMKR8P3usr2uJZbOCGCxC3Uw"
+Via: 1.1 vegur
+Cache-Control: max-age=14400
+CF-Cache-Status: HIT
+Age: 1273
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 904491717ba19f8f-SIN
+Content-Encoding: gzip
+Ùserver-timing: cfL4;desc="?proto=TCP&rtt=236597&min_rtt=232245&rtt_var=90200&sent=6&recv=6&lost=0&retrans=0&sent_bytes=3107&recv_bytes=807&delivery_rate=18601&cwnd=252&unsent_bytes=0&cid=a270f4367cd68677&ts=399&x=0"
+
+{
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+
+        {
+            "id": 7,
+1            "email": "michael.lawson@reqres.in",
+%            "first_name": "Michael",
+#            "last_name": "Lawson",
+@            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+
+        {
+            "id": 8,
+3            "email": "lindsay.ferguson@reqres.in",
+%            "first_name": "Lindsay",
+%            "last_name": "Ferguson",
+@            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+
+        {
+            "id": 9,
+/            "email": "tobias.funke@reqres.in",
+$            "first_name": "Tobias",
+"            "last_name": "Funke",
+@            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+
+        {
+            "id": 10,
+/            "email": "byron.fields@reqres.in",
+#            "first_name": "Byron",
+#            "last_name": "Fields",
+A            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+
+        {
+            "id": 11,
+1            "email": "george.edwards@reqres.in",
+$            "first_name": "George",
+$            "last_name": "Edwards",
+A            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+
+        {
+            "id": 12,
+0            "email": "rachel.howell@reqres.in",
+$            "first_name": "Rachel",
+#            "last_name": "Howell",
+A            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+
+        }
+    ],
+    "support": {
+b        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+h        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+    }
+}
+HTTP/1.1 200 OK
+%Date: Sun, 19 Jan 2025 05:54:08 GMT
+/Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+ÓReport-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1737146062&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=f%2FZjioJLZih55s4sQUXx3ROSn4ooAcg74CPKmlCJoV8%3D"}]}
+ªReporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1737146062&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=f%2FZjioJLZih55s4sQUXx3ROSn4ooAcg74CPKmlCJoV8%3D
+|Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+ Access-Control-Allow-Origin: *
++Etag: W/"2fb-zJ/iiAzm4zf7SruyfEtNo0xEDoY"
+Via: 1.1 vegur
+Cache-Control: max-age=14400
+CF-Cache-Status: HIT
+Age: 3234
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 904491856ddf9fd2-AMS
+Content-Encoding: gzip
+Öserver-timing: cfL4;desc="?proto=TCP&rtt=72656&min_rtt=63898&rtt_var=30218&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3107&recv_bytes=802&delivery_rate=67607&cwnd=252&unsent_bytes=0&cid=504ab8d2f14407fb&ts=84&x=0"
+
+{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+
+        {
+            "id": 1,
+             "name": "cerulean",
+            "year": 2000,
+             "color": "#98B2D1",
+'            "pantone_value": "15-4020"
+        },
+
+        {
+            "id": 2,
+$            "name": "fuchsia rose",
+            "year": 2001,
+             "color": "#C74375",
+'            "pantone_value": "17-2031"
+        },
+
+        {
+            "id": 3,
+             "name": "true red",
+            "year": 2002,
+             "color": "#BF1932",
+'            "pantone_value": "19-1664"
+        },
+
+        {
+            "id": 4,
+             "name": "aqua sky",
+            "year": 2003,
+             "color": "#7BC4C4",
+'            "pantone_value": "14-4811"
+        },
+
+        {
+            "id": 5,
+!            "name": "tigerlily",
+            "year": 2004,
+             "color": "#E2583E",
+'            "pantone_value": "17-1456"
+        },
+
+        {
+            "id": 6,
+&            "name": "blue turquoise",
+            "year": 2005,
+             "color": "#53B0AE",
+'            "pantone_value": "15-5217"
+
+        }
+    ],
+    "support": {
+b        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+h        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+    }
+}
+HTTP/1.1 200 OK
+%Date: Sun, 19 Jan 2025 05:54:09 GMT
+/Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+ÕReport-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1736144208&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=%2B8W3ARPa5HR5xU3nvPcAMpPjw2y2zfudQsMv9%2BV0ZEA%3D"}]}
+¬Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1736144208&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=%2B8W3ARPa5HR5xU3nvPcAMpPjw2y2zfudQsMv9%2BV0ZEA%3D
+|Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+ Access-Control-Allow-Origin: *
++Etag: W/"152-ApQgGHL6RKwaebFlrPCYPBO1xHg"
+Via: 1.1 vegur
+Cache-Control: max-age=14400
+CF-Cache-Status: HIT
+
+Age: 689
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 90449186ec0e62eb-HAM
+Content-Encoding: gzip
+×server-timing: cfL4;desc="?proto=TCP&rtt=46893&min_rtt=36352&rtt_var=21161&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3108&recv_bytes=802&delivery_rate=118838&cwnd=252&unsent_bytes=0&cid=a81f85f6fa9c01a9&ts=54&x=0"
+
+{
+    "data": {
+        "id": 2,
++        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+<        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+b        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+h        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+    }
+}
+HTTP/1.1 404 Not Found
+%Date: Sun, 19 Jan 2025 05:54:09 GMT
+/Content-Type: application/json; charset=utf-8
+Content-Length: 2
+Connection: keep-alive
+ÓReport-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1737266049&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=ALDuDyAkkEk2NF2h94wI994vGbeqYB7C%2BAzFxQnKDQE%3D"}]}
+ªReporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1737266049&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=ALDuDyAkkEk2NF2h94wI994vGbeqYB7C%2BAzFxQnKDQE%3D
+|Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+ Access-Control-Allow-Origin: *
+)Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+Via: 1.1 vegur
+Cache-Control: max-age=14400
+CF-Cache-Status: EXPIRED
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 904491880ddd376b-HEL
+Øserver-timing: cfL4;desc="?proto=TCP&rtt=32442&min_rtt=32279&rtt_var=12221&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3106&recv_bytes=803&delivery_rate=133833&cwnd=251&unsent_bytes=0&cid=9dde62d743b45ac6&ts=145&x=0"
+
+{
+    
+}
+HTTP/1.1 400 Bad Request
+%Date: Sun, 19 Jan 2025 05:54:09 GMT
+/Content-Type: application/json; charset=utf-8
+Content-Length: 28
+Connection: keep-alive
+ÓReport-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1737266049&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=ALDuDyAkkEk2NF2h94wI994vGbeqYB7C%2BAzFxQnKDQE%3D"}]}
+ªReporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1737266049&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=ALDuDyAkkEk2NF2h94wI994vGbeqYB7C%2BAzFxQnKDQE%3D
+|Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+ Access-Control-Allow-Origin: *
+*Etag: W/"1c-NmpazMScs9tOqR7eDEesn+pqC9Q"
+Via: 1.1 vegur
+cf-cache-status: DYNAMIC
+Server: cloudflare
+CF-RAY: 9044918b0f68726d-HAM
+Øserver-timing: cfL4;desc="?proto=TCP&rtt=39588&min_rtt=37677&rtt_var=15494&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3106&recv_bytes=859&delivery_rate=114658&cwnd=252&unsent_bytes=0&cid=92d799225f474bf4&ts=156&x=0"
+
+{
+     "error": "Missing password"
+}
+HTTP/1.1 201 Created
+%Date: Sun, 19 Jan 2025 05:54:10 GMT
+/Content-Type: application/json; charset=utf-8
+Content-Length: 84
+Connection: keep-alive
+ÑReport-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1737266050&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=gqVAL1O4zxL5FbI338vvtuOE6NkFP703fLT8lUJzmlc%3D"}]}
+¨Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1737266050&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=gqVAL1O4zxL5FbI338vvtuOE6NkFP703fLT8lUJzmlc%3D
+|Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+ Access-Control-Allow-Origin: *
+*Etag: W/"54-uVnO7J1MLmO11olVVBSOgOnzVWc"
+Via: 1.1 vegur
+cf-cache-status: DYNAMIC
+Server: cloudflare
+CF-RAY: 9044918dae7ae929-DME
+×server-timing: cfL4;desc="?proto=TCP&rtt=99629&min_rtt=98950&rtt_var=37591&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3107&recv_bytes=855&delivery_rate=43658&cwnd=252&unsent_bytes=0&cid=492b16c468e432c1&ts=324&x=0"
+
+{
+    "name": "morpheus",
+    "job": "leader",
+    "id": "912",
+,    "createdAt": "2025-01-19T05:54:10.346Z"
+}
+HTTP/1.1 200 OK
+%Date: Sun, 19 Jan 2025 05:54:10 GMT
+/Content-Type: application/json; charset=utf-8
+Content-Length: 36
+Connection: keep-alive
+ÑReport-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1737266050&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=gqVAL1O4zxL5FbI338vvtuOE6NkFP703fLT8lUJzmlc%3D"}]}
+¨Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1737266050&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=gqVAL1O4zxL5FbI338vvtuOE6NkFP703fLT8lUJzmlc%3D
+|Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+ Access-Control-Allow-Origin: *
+*Etag: W/"24-4iP0za1geN2he+ohu8F0FhCjLks"
+Via: 1.1 vegur
+cf-cache-status: DYNAMIC
+Server: cloudflare
+CF-RAY: 904491909a9fd0d9-AMS
+×server-timing: cfL4;desc="?proto=TCP&rtt=56920&min_rtt=54118&rtt_var=25898&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3107&recv_bytes=878&delivery_rate=56444&cwnd=251&unsent_bytes=0&cid=599d76a90b159435&ts=138&x=0"
+
+{
+    "id": 4,
+!    "token": "QpwL5tke4Pnpja7X4"
+}
+	HTTP/1.1 200 OK
+	%Date: Sun, 19 Jan 2025 05:54:11 GMT
+	/Content-Type: application/json; charset=utf-8
+	Content-Length: 29
+	Connection: keep-alive
+	ÑReport-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1737266050&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=gqVAL1O4zxL5FbI338vvtuOE6NkFP703fLT8lUJzmlc%3D"}]}
+	¨Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1737266050&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=gqVAL1O4zxL5FbI338vvtuOE6NkFP703fLT8lUJzmlc%3D
+	|Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+	X-Powered-By: Express
+	 Access-Control-Allow-Origin: *
+	*Etag: W/"1d-lGCrvD6B7Qzk11+2C98+nGhhuec"
+	Via: 1.1 vegur
+	cf-cache-status: DYNAMIC
+	Server: cloudflare
+	CF-RAY: 904491920e70ef97-WAW
+	×server-timing: cfL4;desc="?proto=TCP&rtt=56994&min_rtt=46301&rtt_var=25001&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3106&recv_bytes=875&delivery_rate=93302&cwnd=252&unsent_bytes=0&cid=a305fdeefafa0e6d&ts=174&x=0"
+	
+	{
+	!    "token": "QpwL5tke4Pnpja7X4"
+	}
+
+HTTP/1.1 404 Not Found
+
+%Date: Sun, 19 Jan 2025 05:54:11 GMT
+
+/Content-Type: application/json; charset=utf-8
+
+Content-Length: 2
+
+Connection: keep-alive
+
+ÑReport-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1737265883&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=12pfyi8ATs0Mx1ah7VzLv5q4anKi2LpgTJTYPHWNEUc%3D"}]}
+
+¨Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1737265883&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=12pfyi8ATs0Mx1ah7VzLv5q4anKi2LpgTJTYPHWNEUc%3D
+
+|Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+
+X-Powered-By: Express
+
+ Access-Control-Allow-Origin: *
+
+)Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+
+Via: 1.1 vegur
+
+Cache-Control: max-age=14400
+
+CF-Cache-Status: HIT
+
+
+Age: 168
+
+Vary: Accept-Encoding
+
+Server: cloudflare
+
+CF-RAY: 90449194ad54ec62-DME
+
+×server-timing: cfL4;desc="?proto=TCP&rtt=97132&min_rtt=95429&rtt_var=39193&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3108&recv_bytes=805&delivery_rate=39611&cwnd=252&unsent_bytes=0&cid=a31d325c45bf9f8f&ts=153&x=0"
+
+
+
+{
+
+    
+
+}
+HTTP/1.1 200 OK
+%Date: Sun, 19 Jan 2025 05:54:14 GMT
+/Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+×Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1737266051&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=OxAFbAGHOLGjoUT8SJ%2FoVZN%2FJS2W%2FM6ndHpN0igCuQ8%3D"}]}
+®Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1737266051&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=OxAFbAGHOLGjoUT8SJ%2FoVZN%2FJS2W%2FM6ndHpN0igCuQ8%3D
+|Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+ Access-Control-Allow-Origin: *
++Etag: W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via: 1.1 vegur
+cf-cache-status: DYNAMIC
+Server: cloudflare
+CF-RAY: 904491964a3a5c45-AMS
+Content-Encoding: gzip
+Øserver-timing: cfL4;desc="?proto=TCP&rtt=51334&min_rtt=51260&rtt_var=19371&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3107&recv_bytes=808&delivery_rate=83309&cwnd=253&unsent_bytes=0&cid=bead7ccab33ff46c&ts=3111&x=0"
+
+{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+
+        {
+            "id": 1,
+/            "email": "george.bluth@reqres.in",
+$            "first_name": "George",
+"            "last_name": "Bluth",
+@            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+
+        {
+            "id": 2,
+/            "email": "janet.weaver@reqres.in",
+#            "first_name": "Janet",
+#            "last_name": "Weaver",
+@            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+
+        {
+            "id": 3,
+,            "email": "emma.wong@reqres.in",
+"            "first_name": "Emma",
+!            "last_name": "Wong",
+@            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+
+        {
+            "id": 4,
++            "email": "eve.holt@reqres.in",
+!            "first_name": "Eve",
+!            "last_name": "Holt",
+@            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+
+        {
+            "id": 5,
+1            "email": "charles.morris@reqres.in",
+%            "first_name": "Charles",
+#            "last_name": "Morris",
+@            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+
+        {
+            "id": 6,
+/            "email": "tracey.ramos@reqres.in",
+$            "first_name": "Tracey",
+"            "last_name": "Ramos",
+@            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+
+        }
+    ],
+    "support": {
+b        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+h        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+    }
+}
+HTTP/1.1 200 OK
+%Date: Sun, 19 Jan 2025 05:54:14 GMT
+/Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+ÑReport-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1737096542&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=BTMRBXjkRVM6Q00A4CS9CWXtT7vXtyqft2tnn1oZNVg%3D"}]}
+¨Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1737096542&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=BTMRBXjkRVM6Q00A4CS9CWXtT7vXtyqft2tnn1oZNVg%3D
+|Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+ Access-Control-Allow-Origin: *
++Etag: W/"122-EJoELj/0trWDxXZhKN3eWEbbcBA"
+Via: 1.1 vegur
+Cache-Control: max-age=14400
+CF-Cache-Status: HIT
+Age: 2809
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 904491ab7e1ce95c-DME
+Content-Encoding: gzip
+×server-timing: cfL4;desc="?proto=TCP&rtt=93683&min_rtt=92769&rtt_var=36617&sent=6&recv=6&lost=0&retrans=0&sent_bytes=3107&recv_bytes=804&delivery_rate=43163&cwnd=252&unsent_bytes=0&cid=77b92447a5957c3e&ts=165&x=0"
+
+{
+    "data": {
+        "id": 2,
+         "name": "fuchsia rose",
+        "year": 2001,
+        "color": "#C74375",
+#        "pantone_value": "17-2031"
+    },
+    "support": {
+b        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+h        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+    }
+}
+HTTP/1.1 200 OK
+%Date: Sun, 19 Jan 2025 05:54:15 GMT
+/Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+ÓReport-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1737266055&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=UI38lclv1jyssrADQt0OzwO%2B6R1SxHViHFUQNvSeges%3D"}]}
+ªReporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1737266055&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=UI38lclv1jyssrADQt0OzwO%2B6R1SxHViHFUQNvSeges%3D
+|Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+ Access-Control-Allow-Origin: *
+*Etag: W/"50-rhLjdCLaq78wBG3BD5IKhedmFoo"
+Via: 1.1 vegur
+cf-cache-status: DYNAMIC
+Server: cloudflare
+CF-RAY: 904491ad6911ec4f-DME
+Content-Encoding: gzip
+Õserver-timing: cfL4;desc="?proto=TCP&rtt=8066&min_rtt=6642&rtt_var=3508&sent=6&recv=6&lost=0&retrans=0&sent_bytes=3107&recv_bytes=865&delivery_rate=650406&cwnd=252&unsent_bytes=0&cid=5c63bc4888d345b4&ts=332&x=0"
+
+{
+    "name": "morpheus",
+    "job": "zion resident",
+,    "updatedAt": "2025-01-19T05:54:15.415Z"
+}
+HTTP/1.1 204 No Content
+%Date: Sun, 19 Jan 2025 05:54:15 GMT
+Content-Length: 0
+Connection: keep-alive
+ÓReport-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1737266055&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=UI38lclv1jyssrADQt0OzwO%2B6R1SxHViHFUQNvSeges%3D"}]}
+ªReporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1737266055&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=UI38lclv1jyssrADQt0OzwO%2B6R1SxHViHFUQNvSeges%3D
+|Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+ Access-Control-Allow-Origin: *
+)Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+Via: 1.1 vegur
+cf-cache-status: DYNAMIC
+Server: cloudflare
+CF-RAY: 904491af8f0ac21e-VIE
+×server-timing: cfL4;desc="?proto=TCP&rtt=51137&min_rtt=51124&rtt_var=19181&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3108&recv_bytes=805&delivery_rate=84500&cwnd=252&unsent_bytes=0&cid=29b61fcd5294f893&ts=171&x=0"
+HTTP/1.1 400 Bad Request
+%Date: Sun, 19 Jan 2025 05:54:15 GMT
+/Content-Type: application/json; charset=utf-8
+Content-Length: 28
+Connection: keep-alive
+ÓReport-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1737266055&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=UI38lclv1jyssrADQt0OzwO%2B6R1SxHViHFUQNvSeges%3D"}]}
+ªReporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1737266055&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=UI38lclv1jyssrADQt0OzwO%2B6R1SxHViHFUQNvSeges%3D
+|Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+ Access-Control-Allow-Origin: *
+*Etag: W/"1c-NmpazMScs9tOqR7eDEesn+pqC9Q"
+Via: 1.1 vegur
+cf-cache-status: DYNAMIC
+Server: cloudflare
+CF-RAY: 904491b0dc4df122-DME
+Õserver-timing: cfL4;desc="?proto=TCP&rtt=7337&min_rtt=6624&rtt_var=2993&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3107&recv_bytes=861&delivery_rate=652173&cwnd=252&unsent_bytes=0&cid=4607dad9553b86dc&ts=203&x=0"
+
+{
+     "error": "Missing password"
+}
+HTTP/1.1 200 OK
+%Date: Sun, 19 Jan 2025 05:54:16 GMT
+/Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+ÑReport-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1737266056&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=T7oytLEGxaDReSI0btBguTSxUvKgoQG8jX5MsebjQyI%3D"}]}
+¨Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1737266056&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=T7oytLEGxaDReSI0btBguTSxUvKgoQG8jX5MsebjQyI%3D
+|Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+ Access-Control-Allow-Origin: *
+*Etag: W/"50-RwH16jlygnF0P7nRYvl+bj/nLTU"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 904491b549b1a030-SIN
+Content-Encoding: gzip
+Ùserver-timing: cfL4;desc="?proto=TCP&rtt=203301&min_rtt=202710&rtt_var=77198&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3107&recv_bytes=863&delivery_rate=20825&cwnd=241&unsent_bytes=0&cid=4d7b638438325553&ts=597&x=0"
+
+{
+    "name": "morpheus",
+    "job": "zion resident",
+,    "updatedAt": "2025-01-19T05:54:16.814Z"
+}
